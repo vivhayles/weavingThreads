@@ -1,10 +1,14 @@
 import Footer from "../../components/Footer/index.jsx";
+import Aboutme from "../../components/Aboutme/index.jsx";
 
 function HomePage() {
     return (
-        <section className = 'bg-[#efecdf] font-serif'>
-            <h1 className="mx-4 my-1 text-2xl md:text-3xl font-serif text-[#00472d]">Weaving Threads</h1>
-            <Footer />
+        <section className='bg-[#efecdf] font-serif'>
+            <h1 className="text-2xl md:text-3xl font-serif text-[#00472d] text-center mt-4">
+                Weaving Threads
+            </h1>
+            <Aboutme />
+            <Footer/>
         </section>
     )
 }
