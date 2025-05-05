@@ -1,9 +1,9 @@
-import pictureofme from '../../images/pictureofme.png'
+import pictureofme from "../../images/pictureofme.jpg";
 import Subheading from "../Subheading/index.jsx";
 function Aboutme() {
     return (
         <section className="lg:inline-block" id="about-me">
-            <img className="col-span-1 float-right mx-4 h-32 w-24 lg:h-64 lg:w-48"
+            <img className="col-span-1 float-right m-4 h-32 w-32 md:h-48 md:w-48 lg:h-64 lg:w-64"
                  alt="A picture of Ruth a smiling white woman with short brown hair" src={pictureofme}/>
             <Subheading text="About Me"/>
             <div className="lg:text-lg m-4">
@@ -27,6 +27,8 @@ function Aboutme() {
                 Now, as a trained Emotion, Body, and Belief Code Practitioner, I’m passionate about helping others
                 release their trapped emotions and find balance, healing, and freedom from what’s been holding them
                 back.
+                <br/>
+                <br/>
             </div>
         </section>
     )
