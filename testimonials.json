@@ -1,27 +1,27 @@
 {
-  "testimonial": [
+  "testimonials": [
     {
       "title": "Testimonial 1",
       "description": "Aliquam erat volutpat. Pellentesque sagittis interdum arcu eu sodales. Maecenas non tristique dolor, quis ullamcorper elit. In vel rutrum nulla. Suspendisse massa lectus, feugiat vitae justo a, imperdiet tincidunt risus. Aliquam feugiat lectus mauris, non aliquam leo tristique nec. Quisque id mauris quis sapien condimentum imperdiet.Pellentesque in iaculis neque. Phasellus lobortis elit nisl, eu egestas sem ultricies nec. Sed a eros vel libero dictum bibendum eu sagittis justo. Aliquam eget eros non nulla dignissim luctus sit amet at quam. Quisque hendrerit eget libero quis tempor. Etiam tincidunt ut augue in malesuada. Sed elementum arcu libero, nec bibendum ex scelerisque sit amet.",
-      "modalbutton": "Read more",
+      "modalbutton": "Information",
       "moreinfo": "Pellentesque tempor nunc at est elementum vulputate. Morbi varius aliquam ante, sed pellentesque urna. Ut luctus pellentesque congue. Fusce id ipsum dolor. Nullam hendrerit augue vitae risus cursus, et placerat nunc posuere. Suspendisse posuere odio vitae lacus commodo lobortis. Sed ultricies, lorem vitae molestie convallis, dui dui iaculis justo, non sagittis orci lorem et dolor. Nunc ornare mauris tortor, sit amet interdum justo malesuada et."
     },
     {
       "title": "Testimonial 2",
       "description": "Aliquam erat volutpat. Pellentesque sagittis interdum arcu eu sodales. Maecenas non tristique dolor, quis ullamcorper elit. In vel rutrum nulla. Suspendisse massa lectus, feugiat vitae justo a, imperdiet tincidunt risus. Aliquam feugiat lectus mauris, non aliquam leo tristique nec. Quisque id mauris quis sapien condimentum imperdiet.Pellentesque in iaculis neque. Phasellus lobortis elit nisl, eu egestas sem ultricies nec. Sed a eros vel libero dictum bibendum eu sagittis justo. Aliquam eget eros non nulla dignissim luctus sit amet at quam. Quisque hendrerit eget libero quis tempor. Etiam tincidunt ut augue in malesuada. Sed elementum arcu libero, nec bibendum ex scelerisque sit amet.",
-      "modalbutton": "Read more",
+      "modalbutton": "Information",
       "moreinfo": "Pellentesque tempor nunc at est elementum vulputate. Morbi varius aliquam ante, sed pellentesque urna. Ut luctus pellentesque congue. Fusce id ipsum dolor. Nullam hendrerit augue vitae risus cursus, et placerat nunc posuere. Suspendisse posuere odio vitae lacus commodo lobortis. Sed ultricies, lorem vitae molestie convallis, dui dui iaculis justo, non sagittis orci lorem et dolor. Nunc ornare mauris tortor, sit amet interdum justo malesuada et."
     },
     {
       "title": "Testimonial 3",
       "description": "Aliquam erat volutpat. Pellentesque sagittis interdum arcu eu sodales. Maecenas non tristique dolor, quis ullamcorper elit. In vel rutrum nulla. Suspendisse massa lectus, feugiat vitae justo a, imperdiet tincidunt risus. Aliquam feugiat lectus mauris, non aliquam leo tristique nec. Quisque id mauris quis sapien condimentum imperdiet.Pellentesque in iaculis neque. Phasellus lobortis elit nisl, eu egestas sem ultricies nec. Sed a eros vel libero dictum bibendum eu sagittis justo. Aliquam eget eros non nulla dignissim luctus sit amet at quam. Quisque hendrerit eget libero quis tempor. Etiam tincidunt ut augue in malesuada. Sed elementum arcu libero, nec bibendum ex scelerisque sit amet.",
-      "modalbutton": "Read more",
+      "modalbutton": "Information",
       "moreinfo": "Pellentesque tempor nunc at est elementum vulputate. Morbi varius aliquam ante, sed pellentesque urna. Ut luctus pellentesque congue. Fusce id ipsum dolor. Nullam hendrerit augue vitae risus cursus, et placerat nunc posuere. Suspendisse posuere odio vitae lacus commodo lobortis. Sed ultricies, lorem vitae molestie convallis, dui dui iaculis justo, non sagittis orci lorem et dolor. Nunc ornare mauris tortor, sit amet interdum justo malesuada et."
     },
     {
       "title": "Testimonial 4",
       "description": "Aliquam erat volutpat. Pellentesque sagittis interdum arcu eu sodales. Maecenas non tristique dolor, quis ullamcorper elit. In vel rutrum nulla. Suspendisse massa lectus, feugiat vitae justo a, imperdiet tincidunt risus. Aliquam feugiat lectus mauris, non aliquam leo tristique nec. Quisque id mauris quis sapien condimentum imperdiet.Pellentesque in iaculis neque. Phasellus lobortis elit nisl, eu egestas sem ultricies nec. Sed a eros vel libero dictum bibendum eu sagittis justo. Aliquam eget eros non nulla dignissim luctus sit amet at quam. Quisque hendrerit eget libero quis tempor. Etiam tincidunt ut augue in malesuada. Sed elementum arcu libero, nec bibendum ex scelerisque sit amet.",
-      "modalbutton": "Read more",
+      "modalbutton": "Information",
       "moreinfo": "Pellentesque tempor nunc at est elementum vulputate. Morbi varius aliquam ante, sed pellentesque urna. Ut luctus pellentesque congue. Fusce id ipsum dolor. Nullam hendrerit augue vitae risus cursus, et placerat nunc posuere. Suspendisse posuere odio vitae lacus commodo lobortis. Sed ultricies, lorem vitae molestie convallis, dui dui iaculis justo, non sagittis orci lorem et dolor. Nunc ornare mauris tortor, sit amet interdum justo malesuada et."
     }
   ]
