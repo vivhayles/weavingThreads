@@ -1,6 +1,6 @@
 function Subheading({text}) {
     return (
-        <h2 className="mt-4 ml-4 text-xl md:text-3xl font-serif text-[#00472d]">
+        <h2 className="text-2xl lg:text-3xl font-semibold mb-6 font-serif text-[#00472d]">
             {text}
         </h2>
     );
