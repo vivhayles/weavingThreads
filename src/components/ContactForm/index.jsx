@@ -62,6 +62,11 @@ export default function ContactForm() {
                         onChange={handleChange}
                         className="border-2 border-gray-300 rounded-lg px-4 py-2 h-32 resize-none focus:outline-none focus:ring-2 focus:ring-primary-500"
                     />
+                    <p className="m-2 text-sm font-medium text-gray-700">
+                        Please note that my working days
+                            are Tuesdays and Wednesdays with email monitoring on Monday’s afternoons and Thursday
+                            morning.
+                    </p>
                 </div>
 
                 <button
