@@ -12,11 +12,11 @@ function Aboutme() {
                 being true to myself, and I often buried the hard things that were too difficult to face.</p>
 
                 <p className='m-4'>When recurring health issues like Candida started to affect me, I realized it was time for a change.
-                This led me to discover energy healing, with a nudge from Louise Hay’s book You Can Heal Your Life. Over
+                This led me to discover energy healing, with a nudge from Louise Hay’s book <em>You Can Heal Your Life.</em> Over
                 the next few years, I kept coming back to it, but it wasn’t until 2012 that I found my real
                 breakthrough.</p>
 
-                <p className='m-4'>That’s when I came across Dr. Bradley Nelson’s Emotion Code and knew I had found something
+                <p className='m-4'>That’s when I came across Dr. Bradley Nelson’s <em>Emotion Code</em> and knew I had found something
                 life-changing. The Emotion Code helped me understand how our subconscious holds onto trapped emotions,
                 creating imbalances that can affect our health and wellbeing. As I worked with practitioners to release
                 these imbalances, I felt better—physically and emotionally—sometimes immediately, sometimes over time.</p>

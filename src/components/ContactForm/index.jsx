@@ -1,5 +1,5 @@
 import React from "react";
-
+import Swal from "sweetalert2";
 function ContactForm() {
     const onSubmit = async (event) => {
         event.preventDefault();
@@ -20,7 +20,11 @@ function ContactForm() {
         }).then((res) => res.json());
 
         if (res.success) {
-            console.log("Success", res);
+            Swal.fire({
+                title: "Success!",
+                text: "Message sent successfully!",
+                icon: "success"
+            });
         }
     };
 
