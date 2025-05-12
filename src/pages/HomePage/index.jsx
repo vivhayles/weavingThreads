@@ -5,7 +5,7 @@ import Energyhealingsessions from "../../components/Energyhealingsessions/index.
 function HomePage() {
     return (
         <section className='bg-[#efecdf] font-serif'>
-            <h1 className="text-3xl md:text-4xl font-serif text-[#00472d] text-center mt-4">
+            <h1 className="text-3xl md:text-4xl font-serif text-[#00472d] text-center mt-4 mb-4">
                 Weaving Threads
             </h1>
             <Aboutme />
