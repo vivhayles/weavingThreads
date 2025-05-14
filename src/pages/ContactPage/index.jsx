@@ -6,7 +6,7 @@ function ContactPage() {
     return (
         <section className='bg-[#efecdf] font-serif'>
             <h1 className="text-3xl md:text-4xl font-serif text-[#00472d] text-center mt-4 mb-4">
-                Weaving Threads
+                Weaving Threads Well-Being
             </h1>
             <Subheading text="Contact Me"/>
             <ContactForm/>
