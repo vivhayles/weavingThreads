@@ -7,8 +7,7 @@ function Aboutme() {
                  alt="A picture of Ruth a smiling white woman with short brown hair" src={pictureofme}/>
             <Subheading text="About Me"/>
             <div className="lg:text-lg">
-                <p className='m-4'>My journey to becoming an Emotion/Body/Belief Code Practitioner started long before I knew what I was
-                doing. Like many healers, I was living life as best I could, but something always felt off. I wasn’t
+                <p className='m-4'>My journey to becoming an Emotion/Body/Belief Code Practitioner started long before I knew what Energy Healing was. Like many healers, I was living life as best I could, but something always felt off. I wasn’t
                 being true to myself, and I often buried the hard things that were too difficult to face.</p>
 
                 <p className='m-4'>When recurring health issues like Candida started to affect me, I realized it was time for a change.
@@ -16,7 +15,7 @@ function Aboutme() {
                 the next few years, I kept coming back to it, but it wasn’t until 2012 that I found my real
                 breakthrough.</p>
 
-                <p className='m-4'>That’s when I came across Dr. Bradley Nelson’s <em>Emotion Code</em> and knew I had found something
+                <p className='m-4'>That’s when I came across Dr. Bradley Nelson’s <em>The Emotion Code</em> and knew I had found something
                 life-changing. The Emotion Code helped me understand how our subconscious holds onto trapped emotions,
                 creating imbalances that can affect our health and wellbeing. As I worked with practitioners to release
                 these imbalances, I felt better—physically and emotionally—sometimes immediately, sometimes over time.</p>
