@@ -7,7 +7,7 @@ import TestimonialsPage from "./pages/TestimonialsPage/index.jsx";
 function App(){
     return (
     <div className="bg-[#efecdf] font-serif">
-       <BrowserRouter >
+        <BrowserRouter basename="/weavingThreads">
            <Navbar />
             <Routes>
                 <Route path="/" element={<HomePage />} />
