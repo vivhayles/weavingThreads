@@ -7,7 +7,7 @@ function Aboutme() {
                  alt="A picture of Ruth a smiling white woman with short brown hair" src={pictureofme}/>
             <Subheading text="About Me"/>
             <div className="lg:text-lg">
-                <p className='m-4'>My journey to becoming an Emotion/Body/Belief Code Practitioner started long before I knew what Energy Healing was. Like many healers, I was living life as best I could, but something always felt off. I wasn’t
+                <p className='m-4'>Hello, my name is Ruth Wilkinson and welcome to Weaving Threads Well-Being. My journey to becoming an Emotion/Body/Belief Code Practitioner started long before I knew what Energy Healing was. Like many healers, I was living life as best I could, but something always felt off. I wasn’t
                 being true to myself, and I often buried the hard things that were too difficult to face.</p>
 
                 <p className='m-4'>When recurring health issues like Candida started to affect me, I realized it was time for a change.
